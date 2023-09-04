@@ -1,0 +1,22 @@
+table,
+th,
+tr,
+td {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+th pre {  
+    font-family: 'Archivo Black';
+    font-size: 18px; 
+}
+
+td,
+td pre {
+    font-family: 'BIZ UDPGothic', sans-serif;
+
+}
+table{
+    background-image: url('/Image/green_BG.jpg');
+    background-repeat: no-repeat;
+}
